@@ -1,0 +1,7 @@
+- Assignment was completed in a group of 5 in T3 2020 for COMP1531: Software Engineering Fundamentals.
+- Task was to create the backend for a chat application (similar to Slack/Discord).
+- This project had a focus on utilising the Software Development Cycle, Agile Development, and becoming familiar with running a backend server in Python.
+- Project Spec can be found in spec.md.
+- Project can't be run as frontend is not provided here.
+- Some later functionality may not be implemented or may be bugged.
+- A final mark of 82/100 was awarded and was worth 50% of grade.
